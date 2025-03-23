@@ -1,0 +1,4 @@
+timestamp,dashboard_rating,comments,data_availability,model_complexity,deployment_feasibility,feasibility_avg_score
+2025-03-23T08:12:31.211625,Excellent,very good,3,3,4,3.3333333333333335
+2025-03-23T08:13:34.819699,Excellent,very good,4,4,5,4.333333333333333
+2025-03-23T08:14:48.429700,Excellent,very good,4,4,5,4.333333333333333
