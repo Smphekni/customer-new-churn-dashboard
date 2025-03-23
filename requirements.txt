@@ -4,6 +4,10 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+xgboost
 tensorflow
-shap
 joblib
+shap
+
+
+
